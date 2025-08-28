@@ -130,4 +130,4 @@ PostgreSQL team
 
 Vue.js ecosystem
 
-Docker community
+🐳 Docker community 
